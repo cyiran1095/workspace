@@ -1,6 +1,8 @@
 package com.course.testng;
 
-//忽略测试，默认是ture，如果enable设置为false那就不执行了
+/*
+忽略测试，默认是ture，就是全部执行，如果enable设置为false那就不执行了
+ */
 import org.testng.annotations.Test;
 
 public class lgnoreTest {
