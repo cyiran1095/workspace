@@ -1,4 +1,4 @@
-package com.course.testng;
+package com.course.testng.groups;
 
 import org.testng.annotations.AfterGroups;
 import org.testng.annotations.BeforeGroups;
@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 
 /*
-这是分组测试，可以根据组的名称来安装顺序执行
+这是分组测试，可以根据组的名称来安装顺序执行，嗯，就是这样
 
  */
 public class groups {
