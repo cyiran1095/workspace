@@ -14,4 +14,9 @@ public class lgnoreTest {
         System.out.println("ignore2执行了");
     }
 
+    @Test(enabled = false)
+    public void ignore3(){
+        System.out.println("ignore3执行了");
+    }
+
 }
